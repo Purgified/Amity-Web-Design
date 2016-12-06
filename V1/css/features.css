@@ -1,0 +1,41 @@
+body {
+	background-color: #eee;
+}
+
+.container {
+	background-color: #fff;
+}
+
+/*img {
+	border: 1px solid #D1CEC8;
+}
+*/
+h2 {
+	font-weight: bold;
+}
+
+.bottom-border {
+	border-bottom: 1px solid #D1CEC8;
+}
+
+.set-col-height {
+	height: 570px;
+}
+
+.remove-bottom {
+	border-bottom: none;
+}
+
+a span {
+	font-size: 1.3em;
+	padding: 20px;
+
+}
+
+a button {
+	border: 0;
+}
+
+footer {
+	margin-top: 50px;
+}

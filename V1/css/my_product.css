@@ -1,0 +1,39 @@
+.spacing {
+  border: 1px solid #D1CEC8;
+  margin-bottom: 30px;
+}
+
+.titles {
+  background-color: #ecf0f1;
+}
+
+.subtitles {
+  background-color: #FFF;
+  padding: 10px 0;
+}
+
+.side-border {
+  border-right: 1px solid #D1CEC8;
+}
+
+.heavy-side-border {
+  border-right: 2px solid #D1CEC8;
+}
+
+.top-border {
+	border-bottom: 1px solid #D1CEC8;
+}
+
+button a {
+	color: white;
+	text-decoration: none;
+}
+
+button a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+.extra-padding {
+  padding-bottom: 15px;
+}

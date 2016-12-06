@@ -1,0 +1,74 @@
+body {
+	background: #eee;
+}
+
+section {
+	background: url('http://i.minus.com/jbaTVy3jmwTAWP.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: -20px;
+	padding-bottom: 200px;
+	padding-top: 20px;
+}
+
+footer {
+	margin-top: 0;
+}
+.adjusting-fonts {
+  font-size: 0.65em;
+  margin-left: 1%;
+}
+
+.adjusting-left-margin {
+	margin-left: 30px;
+}
+
+.bg-coloring {
+	border: 1px solid #1abc9c;
+	background-color: #16a085;
+}
+
+small {
+	color: white;
+}
+
+.input-group span {
+	background-color: #1abc9c;
+	color: white;
+}
+
+.input-group-addon {
+	border-color: #1abc9c;
+}
+
+.sign-up {
+	background-color: #1abc9c;
+	border-radius: 0;
+	border-bottom: 1px solid #bdc3c7;
+}
+
+.sign-up:hover {
+	cursor: pointer;
+	background-color: #16a085;
+}
+
+h3 {
+	color: white;
+	font-weight: bold;
+}
+
+.row .col-md-12 a {
+	color: white;
+	font-weight: bold;
+	border-bottom: 1px dashed white;
+}
+
+
+@media screen and (max-width: 480px) {
+	.adjusting-left-margin {
+		margin: 0;
+	}
+}

@@ -1,0 +1,43 @@
+body {
+	background: #eee;
+}
+
+.search-button {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.bottom-border {
+	border-bottom: 1px solid #D1CEC8;
+}
+
+.top-border {
+	border-top: 1px solid #D1CEC8;
+}
+
+.documents {
+	color: white;
+	background-color: #3498db;
+	padding: 5px;
+	line-height: 5.5em;
+}
+
+h3 {
+	font-size: 2em;
+}
+
+span:hover {
+	cursor: pointer;
+}
+
+.col-md-6 span {
+	font-size: 1em;
+}
+
+.bg-coloring {
+	background-color: #fff;
+}
+
+h4 {
+	font-size: 1.4em;
+}

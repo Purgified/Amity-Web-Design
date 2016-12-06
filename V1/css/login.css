@@ -1,0 +1,76 @@
+body {
+	background: #eee;
+
+}
+
+section {
+	background: url('http://i.minus.com/jbaTVy3jmwTAWP.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: -20px;
+	padding-bottom: 300px;
+	padding-top: 25px;
+}
+
+footer {
+	margin-top: 0;
+}
+
+.adjusting-fonts {
+  font-size: 0.65em;
+  margin-left: 1%;
+}
+
+.adjusting-left-margin {
+	margin-left: 30px;
+}
+
+.bg-coloring {
+	border: 1px solid #247fa1;
+	background-color: #2980b9;
+}
+
+small {
+	color: white;
+}
+
+.input-group span {
+	background-color: #3498db;
+	color: white;
+}
+
+.input-group-addon {
+	border-color: #3498db;
+}
+
+.sign-in {
+	background-color: #3498db;
+	border-radius: 0;
+	border-bottom: 1px solid #34495e;
+}
+
+.sign-in:hover {
+	cursor: pointer;
+	background-color: #2980b9;
+}
+
+h3 {
+	color: white;
+	font-weight: bold;
+}
+
+.row .col-md-12 a {
+	color: white;
+	font-weight: bold;
+	border-bottom: 1px dashed white;
+}
+
+
+@media screen and (max-width: 480px) {
+	.adjusting-left-margin {
+		margin: 0;
+	}
+}

@@ -1,0 +1,71 @@
+body {
+	background-color: #eee;
+}
+
+.container {
+	background-color: #fff;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 3em;
+}
+
+footer {
+	margin-top: 50px;
+}
+
+.bottom-border {
+	border-bottom: 1px solid #D1CEC8;
+}
+
+.set-col-height {
+	height: 570px;
+}
+
+.remove-bottom {
+	border-bottom: none;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+.percent {
+	font-size: 8em;
+}
+
+.transaction {
+	font-size: 3em;
+
+}
+
+.side-border {
+	border-right: 1px solid #D1CEC8;
+}
+
+.features-paragraph {
+	font-size: 1.35em;
+	color: #bdc3c7;
+}
+
+.features-heading {
+	background-color: #2980b9;
+	color: white;
+}
+
+a span {
+	font-size: 1.2em;
+}
+
+a .btn {
+	padding: 15px;
+}
+
+h3 {
+	font-weight: bold;
+}
+
+.btn {
+	border-radius: 0px;
+}

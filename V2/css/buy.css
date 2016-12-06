@@ -1,0 +1,83 @@
+body {
+	background: #eee;
+}
+
+h1 {
+	font-weight: bolder;
+}
+
+.main-borders {
+	border: 1px solid #D1CEC8;
+}
+
+.buy-now {
+	background-color: #3498db;
+	border-radius: 0;
+	border-bottom: 1px solid #34495e;
+}
+
+.bottom-border {
+	border-bottom: 1px solid #D1CEC8;
+}
+
+.buy-now:hover {
+	cursor: pointer;
+}
+
+img {
+}
+
+.bg-coloring {
+	background-color: #fff;
+}
+
+.extension {
+	font-size: 0.7em;
+	color: #16a085;
+	line-height: 4em;
+}
+
+.price {
+	font-weight: bold;
+	line-height: 3.5em;
+	font-size: 0.9em;
+}
+
+.buy-now-border {
+	padding-bottom: 10px;
+}
+
+.created-title {
+	font-weight: bold;
+}
+
+.pricing-table {
+	padding: 10px;
+}
+
+.final-table {
+	background-color: #eee;
+}
+
+.social-network {
+	padding: 3px;
+	border-bottom: 2px solid #fff;
+}
+
+.social-network:hover {
+	cursor: pointer;
+}
+
+.buy-button {
+	color: white;
+}
+
+.buy-button:hover {
+	color: white;
+	text-decoration: none;
+}
+
+.modal-header {
+	background-color: #2980b9;
+	color: white;
+}

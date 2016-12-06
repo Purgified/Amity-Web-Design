@@ -1,0 +1,46 @@
+body {
+	background-color: #eee;
+}
+
+
+
+.bg-image {
+	background-color: #e74c3c;	
+	
+	background: url('http://i.minus.com/jbaTVy3jmwTAWP.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: -20px;
+	padding-bottom: 400px;
+	padding-top: 150px;
+}
+
+section {
+}
+
+h1 {
+	color: white;
+	font-size: 4em;
+	font-style: 'Open Sans', sans-serif
+	padding-left: 30px;
+}
+
+.btn {
+	border-radius: 0;
+	width: 100%;
+	background-color: #33b5e5;
+ 	border-color: #247fa1;
+}
+
+.btn:hover {
+	border-bottom: 1px solid white;
+}
+
+.bg-styling {
+	background-color: rgba(0,0,0,0.5);
+	margin-left: 40px;
+	border-radius: 10px;
+}

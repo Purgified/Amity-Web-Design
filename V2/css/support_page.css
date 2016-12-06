@@ -1,0 +1,55 @@
+body {
+	background: #eee;
+}
+
+.search-button {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.bottom-border {
+	border-bottom: 1px solid #D1CEC8;
+}
+
+.top-border {
+	border-top: 1px solid #D1CEC8;
+}
+
+.documents {
+	color: white;
+	background-color: #3498db;
+	padding: 5px;
+	line-height: 5.5em;
+}
+
+
+
+.col-md-6 span {
+	font-size: 1em;
+	letter-spacing: 2px;
+}
+
+.bg-coloring {
+	background-color: #fff;
+}
+
+h3 {
+
+}
+
+span {
+	font-size: 0.9em;
+}
+
+h3 {
+	font-size: 0.7em;
+}
+
+.breadcrumb {
+	color: white;
+	background-color: #3498db;
+}
+
+.breadcrumb a {
+	color: white;
+}

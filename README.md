@@ -1,0 +1,1 @@
+Two versions of a web design project I took on for a client wanting to make an eBook selling website, mainly to get comfortable using Bootstrap as a rapid prototyping design framework to quickly release a minimum viable product
