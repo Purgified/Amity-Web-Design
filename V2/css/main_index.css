@@ -1,0 +1,203 @@
+/******************
+* GENERAL
+******************/
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.8em;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-weight: 500;
+}
+
+h3 {
+  font-weight: 300;
+}
+
+#wrapper {
+  max-width: 940px;
+  min-height: 100%;
+  margin: 2% auto;
+  text-align: center;
+}
+
+
+
+/************************
+HEADING
+*************************/
+
+
+header {
+  float: left;
+  margin: 0 0 30px 0;
+  padding: 5px 0 0 0;
+  width: 100%;
+}
+
+#logo {
+  text-align: center;
+  margin: 0;
+}
+
+.navigation h1 {
+  font-family: 'Changa One', sans-serif;
+  margin: 15px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+}
+
+.navigation h2 {
+  font-size: 0.75em;
+  margin: -5px 0 0;
+  font-weight: normal;
+}
+
+
+
+/************************
+NAVIGATION
+*************************/
+
+nav {
+  text-align: center;
+  padding: 10px 0;
+  margin: 20px 0 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+nav a {
+  font-weight: 800;
+  padding: 0 10px;
+}
+
+header {
+  margin: -30px 0 60px 0;
+}
+
+
+/******************
+* FOOTER
+******************/
+
+
+footer {
+  margin: 0;
+  padding: 0;
+  margin: 15% 0 0 0;
+  width: 100%;
+  border-top: 1px solid;
+}
+
+
+ul.footing {
+  list-style: none;
+  display: block;
+  float: left;
+}
+
+
+
+/******************
+* PAGE: INDEX
+******************/
+
+span {
+  padding: 10px;
+  max-width: 1%;
+  margin: 2%;
+}
+
+.facebook-button {
+  background-color: #3A41A8;
+}
+
+.mail-button {
+  background-color: #30943D;
+}
+
+.desc {
+  margin: 0 0 30px;
+}
+
+.sell h1 {
+  font-size: 2.8em;
+}
+
+.sell h3 {
+  font-size: 1.5em;
+}
+
+span a {
+  color: white;
+}
+
+
+.banner { 
+  max-width: 400px;
+  min-height: 100%;
+  padding: 10% 0 0 0;
+  margin: 0 auto;
+}
+
+.banner li {
+  list-style: none; 
+}
+
+.banner ul li { 
+  float: left;
+}
+
+/******************
+* COLORS
+******************/
+
+nav, footer {
+  border-color: #787878;
+}
+
+footer a {
+  color: #676E6C;
+}
+
+b {
+  color: #484C4B;
+}
+
+.navigation h1, nav ul a {
+  color: white;
+}
+
+header {
+  background-color: #33b5e5;
+  border-bottom: 5px solid #33A8E5;
+}
+
+nav a.selected, nav a:hover {
+  color: #CFCFCF;
+}
+
+#pricing {
+  background-color: brown;
+}
